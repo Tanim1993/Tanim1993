@@ -2,11 +2,11 @@
 #### Software QA Automation Engineer
 ![Software QA Automation Engineer](https://media.licdn.com/dms/image/C5616AQFLs8wCbh2PwQ/profile-displaybackgroundimage-shrink_350_1400/0/1649572259716?e=1697068800&v=beta&t=ZmtcSUO7NR2DPhITTNdNeO72Xe8SGVwLvYmEhcexBBg)
 
-Experienced Software QA Automation Engineer specializing in building robust testing frameworks with Selenium, Appium, and more. Dedicated to delivering top-quality software by identifying bugs, collaborating with teams, and advocating for continuous improvement. Passionate about enhancing user experiences through rigorous testing. Let's create reliable software together.
+Experienced Software QA Automation Engineer specializing in building robust testing frameworks with Selenium,Playwright, Appium, and more. Dedicated to delivering top-quality software by identifying bugs, collaborating with teams, and advocating for continuous improvement. Passionate about enhancing user experiences through rigorous testing. Let's create reliable software together.
 
-Skills: Test Automation Programming (Java, Python, etc.) / Selenium / API Testing / Agile Methodologies
+Skills: Test Automation Programming (Java, Python, etc.) / Selenium / Playwright /API Testing / Agile Methodologies
 
-- 🔭 I’m currently working on 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗧𝗲𝘀𝘁 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 in Red.Digital Ltd at 𝗥𝗼𝗯𝗶 𝗔𝘅𝗶𝗮𝘁𝗮 𝗟𝗶𝗺𝗶𝘁𝗲𝗱 
+- 🔭 I’m currently working on Senior 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲𝗧𝗲𝘀𝘁 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 in Red.Digital Ltd at 𝗥𝗼𝗯𝗶 𝗔𝘅𝗶𝗮𝘁𝗮 𝗟𝗶𝗺𝗶𝘁𝗲𝗱 
 - 🌱 I’m currently learning  I’m currently learning to optimize test scripts for better efficiency and exploring advanced automation frameworks. 
 - 👯 I’m looking to collaborate on  I want to collaborate on enhancing test coverage through innovative automation strategies and sharing insights on test architecture. 
 - 🤔 I’m looking for help with  I’m looking for help with refining load testing techniques for performance optimization in complex software systems. 
@@ -19,14 +19,3 @@ Skills: Test Automation Programming (Java, Python, etc.) / Selenium / API Testin
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Tanim1993)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanim1993)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tanim1993&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Tanim1993)  
-
-![GitHub metrics](https://metrics.lecoq.io/Tanim1993)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Tanim1993)  
-
-![Profile views](https://gpvc.arturio.dev/Tanim1993)  
