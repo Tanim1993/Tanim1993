@@ -10,7 +10,7 @@ Skills: Test Automation Programming (Java, Python, etc.) / Selenium / Playwright
 - 🌱 I’m currently learning  I’m currently learning to optimize test scripts for better efficiency and exploring advanced automation frameworks. 
 - 👯 I’m looking to collaborate on  I want to collaborate on enhancing test coverage through innovative automation strategies and sharing insights on test architecture. 
 - 🤔 I’m looking for help with  I’m looking for help with refining load testing techniques for performance optimization in complex software systems. 
-- 📫 How to reach me: Feel free to connect with me on LinkedIn [https://www.linkedin.com/in/khaled-bin-showkot-tanim/]  for discussions and collaborations. 
+- 📫 How to reach me: Feel free to connect with me on LinkedIn [https://www.linkedin.com/in/khaled-tanim/]  for discussions and collaborations. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Tanim1993)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/khaled-tanim)  
